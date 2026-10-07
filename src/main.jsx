@@ -3,12 +3,12 @@ import { createRoot } from "react-dom/client";
 import { ShoppingCart, Search, Plus, Minus, X, ChevronRight } from "lucide-react";
 import "./styles.css";
 
-import swp from "./assets/swp.jpg";
-import prtLogo from "./assets/prt_logo.png";
-import swpPremium from "./assets/swp-premium.jpg";
-import w320 from "./assets/w320.jpg";
-import w240 from "./assets/w240.jpg";
-import jbk from "./assets/jbk.jpg";
+const swp = "src/assets/swp.jpg";
+const prtLogo ="src/assets/prt_logo.png";
+const swpPremium ="src/assets/swp-premium.jpg";
+const w320 ="src/assets/w320.jpg";
+const w240 ="src/assets/w240.jpg";
+const jbk ="src/assets/jbk.jpg";
 
 const products = [
  
